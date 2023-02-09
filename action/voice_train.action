@@ -1,0 +1,11 @@
+#goal definition
+string projectname
+---
+#result definition
+string result
+---
+#feedback
+string status
+
+
+
